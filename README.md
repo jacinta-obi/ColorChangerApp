@@ -17,6 +17,16 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 
+VSCO
+- Scrolling through peoples pictures while the setup is in collage form
+- Being able to edit photos to give them a different filter
+
+Flo
+- Sends me reminders of when my period will come
+- Allows me to adjust the calendar based on my period by selecting different dates on the calendar
+
+I'd like to make the text messaging app better on IOS. I want it to be able to recognize the people that I text often and move them to the top of my phone like how we put people that we deem important at the top of the screen. Of course, I want there to be a setting in Settings where you can choose for the app to be able to do this or not. 
+
 ## Notes
 
 Simply just finding where everything was located in XCode was a bit challenging because I had never used it before, but once I figured it out, things became easier to use and understand. 
